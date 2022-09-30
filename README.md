@@ -53,7 +53,7 @@ Jerome would also like to have the functionality to query the containers above t
 
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Student_Record_table.png"/>
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Grade_and_status_tables.png"/>
-Script can convert your containers from item 5 under Script Capabilities above into a dataframe identical to the table below and save to an (excel or csv file)[https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv]:
+Script can convert your containers from item 5 under Script Capabilities above into a dataframe identical to the table below and save to an ![excel or csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv):
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Records_CSV_sample.png"/>
 USAGE:
 
@@ -80,12 +80,12 @@ You are required to input a command, available options include:
     v. status - Ouputs status of a particular student   
     **Student's records can be load using either student's name or ID**
 ### C. read
-   Command to read records from a csv file  
+   Command to read records from a ![csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)  
    
     Input filepath
     
 ### D. save
-   Command to write records to a csv file       
+   Command to write records to a ![csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)       
    You could either write to a new file or append rows to an existing file.
    
     Input filepath
