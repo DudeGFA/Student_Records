@@ -53,7 +53,7 @@ Jerome would also like to have the functionality to query the containers above t
 
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Student_Record_table.png"/>
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Grade_and_status_tables.png"/>
-Script can convert your containers from item 5 under Script Capabilities above into a dataframe identical to the table below and save to an [excel or csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv):
+Script can convert your containers from item 5 under Script Capabilities above into a dataframe identical to the table below and save to an (excel or csv file)[https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv]:
 <img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Records_CSV_sample.png"/>
 USAGE:
 
