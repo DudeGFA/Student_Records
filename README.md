@@ -80,12 +80,12 @@ You are required to input a command, available options include:
     v. status - Ouputs status of a particular student   
     **Student's records can be load using either student's name or ID**
 ### C. read
-   Command to read records from a ![csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)  
+   Command to read records from a [csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)  
    
     Input filepath
     
 ### D. save
-   Command to write records to a ![csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)       
+   Command to write records to a [csv file](https://github.com/DudeGFA/Student_Records/blob/main/sample_data.csv)       
    You could either write to a new file or append rows to an existing file.
    
     Input filepath
