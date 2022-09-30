@@ -51,10 +51,10 @@ Jerome would also like to have the functionality to query the containers above t
 4. Fetch the list of students Statuses (Pass, Fail, Retake) 
 5. Obtain a response from the script for any student to determine if they passed, failed, or need to retake the subject Implement you code and use the Students Records in the table below to populate your containers
 
-![](Student_Record_table.png)
-![](Grade_and_status_tables.png)
+<img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Student_Record_table.png"/>
+<img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Grade_and_status_tables.png"/>
 CONVERT your containers from item 5 under Script Capabilities above into a dataframe identical to the table below and save to an excel or csv file:
-![](Records_CSV_sample.png)
+<img src="https://github.com/DudeGFA/Student_Records/blob/main/README_Images/Records_CSV_sample.png"/>
 USAGE:
 
     clone this repo using "git clone https://github.com/DudeGFA/Student_Records.git"
